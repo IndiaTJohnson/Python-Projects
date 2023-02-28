@@ -16,7 +16,7 @@ from geopy.exc import GeocoderTimedOut
 from selenium import webdriver
 
 #driver = webdriver.Chrome()
-#webbrowser.open('https://docs.google.com/spreadsheets/d/1RaI3DpgY3yaIUswHbEjV9XxslLBU0reyJIQ_Gm3wA3Q/export?format=csv&id=1RaI3DpgY3yaIUswHbEjV9XxslLBU0reyJIQ_Gm3wA3Q&gid=1727268715')
+#webbrowser.open('https://docs.google.com/spreadsheets')
 #driver.implicitly_wait(3)
 
 #time.sleep(5)
